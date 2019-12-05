@@ -21,5 +21,5 @@ redirect_from: "/"
 
 ---
 
-## Langauges
+## Languages
 *[python](python)*
