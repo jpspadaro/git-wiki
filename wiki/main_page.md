@@ -12,15 +12,10 @@ redirect_from: "/"
 
 ## Tools
 [Emacs](Emacs)
-
 [tmux](tmux)
-
 [OWASP Zaproxy](OWASP-ZAPROXY)
-
 [git](git)
-
 [iTerm](iTerm)
-
 [ngrok](ngrok)
 
 ---
