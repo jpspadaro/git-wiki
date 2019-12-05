@@ -18,3 +18,5 @@ redirect_from: "/"
 [iTerm](iTerm)
 
 [ngrok](ngrok)
+
+*[python](python)*
