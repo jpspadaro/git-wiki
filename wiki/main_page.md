@@ -8,7 +8,7 @@ redirect_from: "/"
 > A wiki for notes on what I'm working with, along with code snippets for configurations, etc.
 
 ---
-
+---
 
 ## Tools
 [Emacs](Emacs)
@@ -22,6 +22,8 @@ redirect_from: "/"
 [iTerm](iTerm)
 
 [ngrok](ngrok)
+
+---
 
 ## Langauges
 *[python](python)*
