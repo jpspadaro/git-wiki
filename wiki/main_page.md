@@ -14,3 +14,7 @@ redirect_from: "/"
 [OWASP Zaproxy](OWASP-ZAPROXY)
 
 [git](git)
+
+[iTerm](iTerm)
+
+[ngrok](ngrok)
