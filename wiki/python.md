@@ -1,6 +1,7 @@
 # Python Tools and Libraries
 
 ## Tools
+[iPython/Jupyter](python/ipython.md)
 
 
 ## Libraries
