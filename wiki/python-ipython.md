@@ -2,6 +2,8 @@
 
 [Homepage](https://ipython.org/)
 
+> **Maybe setup a config for web application bug hunting?**
+
 ## Sample Config File
 [Docs](https://ipython.org/ipython-doc/stable/config/intro.html)
 ```
@@ -40,5 +42,3 @@ c.AliasManager.user_aliases = [
 ]
 
 ```
-
-> Maybe setup a config for web application bug hunting?
