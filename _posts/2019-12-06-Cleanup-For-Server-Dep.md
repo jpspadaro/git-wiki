@@ -1,3 +1,6 @@
+---
+published: true
+---
 # Cleanup for Server Deployment
 
 > ***UNTESTED***
