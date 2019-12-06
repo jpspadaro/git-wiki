@@ -22,4 +22,4 @@ redirect_from: "/"
 ---
 
 ## Languages
-*[python](python)* [powershell](powershell)
+*[python](python)* [powershell](powershell) *[BASH](bash)*
