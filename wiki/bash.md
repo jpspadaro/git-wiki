@@ -1,4 +1,4 @@
 # BASH
 
 ## Cleanup Bundle Script
-[Script](posts/2019-12-06-Cleanup-for-server-dep)
+[Script](https://jpspadaro.github.io/git-wiki/blog/posts/2019/12/06/Cleanup-For-Server-Dep.html)
