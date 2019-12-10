@@ -21,5 +21,10 @@ redirect_from: "/"
 
 ---
 
+## Sites
+[duckduckgo](duckduckgo)
+
+---
+
 ## Languages
 *[python](python)* [powershell](powershell) *[BASH](bash)*
