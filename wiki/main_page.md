@@ -27,4 +27,4 @@ redirect_from: "/"
 ---
 
 ## Languages
-*[python](python)* [powershell](powershell) *[BASH](bash)* [rust](rust)
+*[python](python)* [powershell](powershell) *[BASH](bash)* [rust](rust) [go](go)
