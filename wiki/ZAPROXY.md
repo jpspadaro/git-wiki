@@ -5,3 +5,7 @@
 [Github](https://github.com/zaproxy/zaproxy/)
 
 > Layered contexts?
+
+## Firefox Fix
+Need to drop an updated gecko driver into `/home/jason/.ZAP/webdriver/linux/64/` per [https://github.com/zaproxy/zaproxy/issues/5434](https://github.com/zaproxy/zaproxy/issues/5434).
+> [Gecko Releases](https://github.com/mozilla/geckodriver/releases/)
