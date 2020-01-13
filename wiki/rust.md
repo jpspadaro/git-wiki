@@ -1,5 +1,7 @@
 # Rust
+[Idioms](rust-idioms)
 [Homepage](https://www.rust-lang.org/)
+[Crates](https://crates.io)
 
 ## Concurrency
 
