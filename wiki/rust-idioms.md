@@ -81,6 +81,7 @@ fn main() {
 ```
 
 ### Domain Specific Languages (DSL)
+
 ```
 macro_rules! calculate {
     (eval $e:expr) => {{
