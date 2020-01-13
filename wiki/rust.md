@@ -42,7 +42,7 @@ assert_eq!(&res[..], &[0, 1, 2, 3, 4])
 
 There are a bunch of useful methods in here:
 [Docs](https://docs.rs/rayon/1.0.3/rayon/iter/index.html)
-```
+
 
 
 ## SSH? - Not tested yet
