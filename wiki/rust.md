@@ -2,6 +2,7 @@
 [Idioms](rust-idioms)
 [Homepage](https://www.rust-lang.org/)
 [Crates](https://crates.io)
+[Rust by example](https://doc.rust-lang.org/rust-by-example/)
 
 ## Concurrency
 
