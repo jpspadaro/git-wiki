@@ -48,5 +48,5 @@ There are a bunch of useful methods in here:
 
 
 
-## SSH? - Not tested yet
-[libmush](https://docs.rs/libmussh/1.0.1/libmussh/)
+## SSH
+[SSH in Rust](rust-ssh)
